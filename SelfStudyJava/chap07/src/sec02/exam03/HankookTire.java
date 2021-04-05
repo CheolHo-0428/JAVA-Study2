@@ -1,9 +1,8 @@
 package sec02.exam03;
 
-public class HankookTire extends Tire{
-	
+public class HankookTire extends Tire {
 	public HankookTire(String location, int maxRotation) {
-		super(location, maxRotation);
+		super(location, maxRotation);		
 	}
 
 	@Override
